@@ -105,16 +105,10 @@ Contributions are welcome! Open issues for bugs, improvements, or new features. 
 
 ---
 
-## License
-
-MIT License (or specify appropriate license as preferred for academic and open hardware projects)
-
----
-
 ## Contact
 
 **Team: The Electronic Brigade**  
 Chennai Institute of Technology, Chennai, India  
-For queries or collaborations: principal@citchennai.net
+For queries or collaborations: shankarm.eee2023@citchennai.net
 
 ---
